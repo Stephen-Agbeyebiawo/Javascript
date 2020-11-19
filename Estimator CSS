@@ -1,0 +1,29 @@
+#helpBtn {
+    padding: 0;
+    float: right;
+}
+#main_center_panel {
+    background-color: #F3F3F3;
+}
+#left_center_panel { 
+    float:left;
+    margin-left: 25px;
+    margin-right: 0px;
+    width: 47%;
+    margin-bottom: 0px;
+    font-size: 2px;
+    padding: 10px 1px 1px 1px;
+    border: none !important;
+    height: 380px;
+}
+#right_center_panel{ 
+
+    float:right;
+	margin-top: -20px;
+    margin-right: 25px;
+    width: 47%;
+    font-size: 2px;
+    margin-left: 0px;
+    padding: 10px 1px 1px 1px;
+    border: none !important;
+} 
